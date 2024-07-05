@@ -1,2 +1,3 @@
 npm init -y
 sh ဖိုင်ဆောက်။
+ctrl + `

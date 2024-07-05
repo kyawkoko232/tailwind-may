@@ -12,16 +12,19 @@ module.exports = {
         "poppins" : "Poppins",
         "padauk" : "Padauk",
         "noto-mm" : "Noto Sans Myanmar",
+        "yoeyar" : ["Poppins","YoeYar","Padauk"],
+        "samsung" : ["samsung"],
+
       },
     },
   },
 
   plugins: [
-    require('daisyui'),
+    // require('daisyui'),
   ],
 
-  daisyui: {
-    themes: ["light", "dark", "cupcake"],
-  },
+  // daisyui: {
+  //   themes: ["light", "dark", "cupcake"],
+  // },
 }
 
